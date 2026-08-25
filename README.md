@@ -66,18 +66,14 @@ Sviluppatore e specialista in **Cybersecurity**. Formato all'ITT E. Barsanti, sp
 
 ### INTERESSI
 
-🔐 Cybersecurity & CTF — Hack The Box, competizioni CTF, reverse engineering
-⚙️ Smontare e rimontare — analisi meccanica e riparazione, dalla componentistica all'elettronica
-🎮 Controllo remoto — veicoli RC, tecnologie radio e personalizzazione elettronica
-🏔️ Passeggiate in montagna — natura, trekking, disconnessione dal digitale
+- 🔐 **Cybersecurity & CTF** — Hack The Box, competizioni CTF, reverse engineering
+- ⚙️ **Smontare e rimontare** — analisi meccanica e riparazione, dalla componentistica all'elettronica
+- 🎮 **Controllo remoto** — veicoli RC, tecnologie radio e personalizzazione elettronica
+- 🏔️ **Passeggiate in montagna** — natura, trekking, disconnessione dal digitale
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SpiderCivi&show_icons=true&theme=transparent&bg_color=00000000&title_color=00e5a0&icon_color=00e5a0&text_color=7a8898&border_color=1a2230&hide_border=false" width="49%" alt="stats"/>
-
-<br/><br/>
 
 [Portfolio](https://spidercivi.github.io) · [HACK/PROJECT](https://spidercivi.github.io/HACK-PROJECT/) · [LinkedIn](https://www.linkedin.com/in/civiero-riccardo-39520027a/) · [Linktree](https://linktr.ee/RickyCivi) · [Email](mailto:civiero.riccardo03@gmail.com)
 
