@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
+      .sg { font-family: 'Space Grotesk', 'Segoe UI', sans-serif; }
+      .jb { font-family: 'JetBrains Mono', 'Consolas', monospace; }
+    </style>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#101820"/>
+    </pattern>
+  </defs>
+
+  <rect width="880" height="220" fill="#060809"/>
+  <rect width="880" height="220" fill="url(#dots)"/>
+
+  <!-- corner brackets -->
+  <path d="M24 40 V24 H40" stroke="#00e5a0" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M856 40 V24 H840" stroke="#00e5a0" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M24 180 V196 H40" stroke="#00e5a0" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M856 180 V196 H840" stroke="#00e5a0" stroke-width="1.5" fill="none" opacity="0.8"/>
+
+  <text x="440" y="34" text-anchor="middle" class="jb" font-size="11" fill="#3a4858" letter-spacing="3">GITHUB · README · 2026</text>
+
+  <!-- status line -->
+  <circle cx="52" cy="66" r="3.5" fill="#00e5a0">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="70" class="jb" font-size="11" fill="#3a4858" letter-spacing="2">AVAILABLE FOR NEW OPPORTUNITIES</text>
+
+  <!-- headline -->
+  <text x="52" y="118" class="sg" font-weight="700" font-size="40" fill="#e8edf4">Spider<tspan fill="#00e5a0">Civi</tspan></text>
+
+  <!-- terminal line -->
+  <text x="52" y="150" class="jb" font-size="16" fill="#7a8898">$ <tspan fill="#e8edf4">cat</tspan> focus.txt</text>
+  <text x="52" y="174" class="jb" font-size="14" fill="#00e5a0">AI tooling · offensive security · automation<tspan fill="#00e5a0"> _<animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+
+  <text x="828" y="192" text-anchor="end" class="jb" font-size="11" fill="#3a4858" letter-spacing="2">CASTELFRANCO VENETO · ITALIA</text>
+</svg>
