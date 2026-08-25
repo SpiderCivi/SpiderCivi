@@ -51,7 +51,7 @@ Sviluppatore e specialista in **Cybersecurity**. Formato all'ITT E. Barsanti, sp
 
 | Ruolo | Azienda | Periodo |
 |---|---|---|
-| Programmatore Informatico | ReputationUP | Ott 2025 – Ago 2026 |
+| Programmatore Informatico | ReputationUP · Castelfranco Veneto | Ott 2025 – Ago 2026 |
 | Tecnico Informatico | Rossignol-Lange · Montebelluna | Mar 2025 – Giu 2025 |
 | Cloud System Engineer | Vem Sistemi · Padova | Giu 2024 – Lug 2024 |
 | Tecnico Informatico | Merieux · Piombino Dese | Giu 2022 – Ago 2022 |
