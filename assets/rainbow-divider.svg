@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="10" viewBox="0 0 760 10">
+  <defs>
+    <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff0040"/>
+      <stop offset="16%" stop-color="#ff8c00"/>
+      <stop offset="33%" stop-color="#ffee00"/>
+      <stop offset="50%" stop-color="#00ff41"/>
+      <stop offset="66%" stop-color="#00c2ff"/>
+      <stop offset="83%" stop-color="#7b2fff"/>
+      <stop offset="100%" stop-color="#ff0040"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0;1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="10" fill="url(#rainbow)"/>
+</svg>
